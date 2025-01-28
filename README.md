@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @PeterGLAW (Lawrence Liang)
+- 👋 Hi, I’m Lawrence Liang
 - 🌱 I’m proefficient in Python, Java, C, C++, html and used git tools.
